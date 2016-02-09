@@ -252,7 +252,7 @@ font-weight: 900;
 
 /* Home Style */
 #home{
-	background: url(../img/07.jpg);
+	background: url(https://flyest.se/img/07.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -271,7 +271,7 @@ font-weight: 900;
 
 /* Anlita Home Style */
 #anlitahome{
-	background: url(../img/01.jpg);
+	background: url(https://flyest.se/img/01.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -346,7 +346,7 @@ ul.about-list li span{
 
 /* Team Section */
 #ourteam{
-	background: url(../img/03.jpg);
+	background: url(https://flyest.se/img/03.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -448,7 +448,7 @@ img.img-circle.team-img {
 
 /* Portfolio */
 #portfolio {
-	background: url(../img/06.jpg);
+	background: url(https://flyest.se/img/06.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -463,25 +463,25 @@ img.img-circle.team-img {
 }
 
 #portimg1 {
-	background:url(../img/portfolio/mekonomen.jpg);
+	background:url(https://flyest.se/img/portfolio/mekonomen.jpg);
 	background-size: cover;
 	box-shadow: inset 0 0 10px #272727;
 }
 
 #portimg2 {
-	background:url(../img/portfolio/flyest.jpg);
+	background:url(https://flyest.se/img/portfolio/flyest.jpg);
 	background-size: cover;
 	box-shadow: inset 0 0 10px #272727;
 }
 
 #portimg3 {
-	background:url(../img/portfolio/twitter.png);
+	background:url(https://flyest.se/img/portfolio/twitter.png);
 	background-size: cover;
 	box-shadow: inset 0 0 10px #272727;
 }
 
 #portimg4 {
-	background:url(../img/portfolio/twitch.png);
+	background:url(https://flyest.se/img/portfolio/twitch.png);
 	background-size: cover;
 	box-shadow: inset 0 0 10px #272727;
 }
@@ -592,7 +592,7 @@ img.img-circle.team-img {
 /* Kontakt */
 #kontakt{
 	padding: 100px 0;
-	background: url(../img/05.jpg);
+	background: url(https://flyest.se/img/05.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -720,7 +720,7 @@ nav#footer p{
 }
 
 .modal-header {
-	background:url(../img/portcontent/01.jpg);
+	background:url(https://flyest.se/img/portcontent/01.jpg);
 	height: 150px;
 }
 
